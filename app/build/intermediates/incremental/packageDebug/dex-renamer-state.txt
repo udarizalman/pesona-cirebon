@@ -1,0 +1,7 @@
+#Sun Jul 30 21:59:28 WIB 2017
+base.0=/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6496f51a9df1a3ad252a4eb4bb54589b133a2b0f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2dd0b09c3ce6100f984449158a9d6ee68ceefa0/classes.dex
+base.1=/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2dd0b09c3ce6100f984449158a9d6ee68ceefa0
+file.0=/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6496f51a9df1a3ad252a4eb4bb54589b133a2b0f/classes.dex

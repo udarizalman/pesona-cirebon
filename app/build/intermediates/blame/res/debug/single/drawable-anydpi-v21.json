@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_home_black.xml",
+        "source": "/home/khilman/Documents/PesonaCirebon3/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_perm_phone_msg.xml",
+        "source": "/home/khilman/Documents/PesonaCirebon3/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_perm_phone_msg.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

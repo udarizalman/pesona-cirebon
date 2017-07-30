@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fef596d3e67ee752c6ed354920f4c9763d5124dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9d1b56bdf617a264f61c73871ddaead6a6efaa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cda54811f70e87ba7f6394f4f2ec6fac37a5ef88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ba44f2d9ef2e966c180296de6b6fc4cf71a3857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/380d9d37f530374b9c21632bba234776111390ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_706df70e49d8ca42b51aae9bf2bc0f010b88496c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be487ec4f3a56e17ce53d4d7df17ce8bed42205">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6496f51a9df1a3ad252a4eb4bb54589b133a2b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/51128a9552e0fc80d12b27daaa0f9e3ea393cfec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c5ec46f59e72ac5068e427ff2dfa3018a589881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/PesonaCirebon3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2dd0b09c3ce6100f984449158a9d6ee68ceefa0/classes.dex" />
+    </item>
+
+</items>
