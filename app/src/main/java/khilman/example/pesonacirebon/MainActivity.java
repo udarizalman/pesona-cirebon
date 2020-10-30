@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -41,6 +39,12 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        setupRecyclerView();
+
+
+    }
+
+    public void setupRecyclerView(){
         recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         // inisialisasi layout recycler view
 
@@ -51,8 +55,6 @@ public class MainActivity extends AppCompatActivity
         recyclerView.setHasFixedSize(true);
         // menset ukuran
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-
-
     }
 
     @Override
